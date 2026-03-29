@@ -20,8 +20,7 @@ C | Python | MySQL | Photoshop | Arduino  | Ubuntu |KALI LINUX |PARROTOS
 
 ## 📱 Socials
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00ff9d?style=for-the-badge)](https://elmaataoui-ihssane.github.io/portfolio)
-
-[LinkedIn](www.linkedin.com/in/ihssane-el-maataoui-694418363
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ihssane-el-maataoui-694418363)
 
 
 
