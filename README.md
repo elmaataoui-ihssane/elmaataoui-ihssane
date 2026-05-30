@@ -57,5 +57,5 @@ I combine my interests in cybersecurity, IoT, and AI to build innovative project
 
 ## 🔗 Socials
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=flat&logo=vercel&logoColor=white)](https://github.com/elmaataoui-ihssane/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=flat&logo=vercel&logoColor=white)](https://elmaataoui-ihssane.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ihssane-el-maataoui-694418363)
