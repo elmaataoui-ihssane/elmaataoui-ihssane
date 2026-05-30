@@ -52,12 +52,12 @@ I combine my interests in cybersecurity, IoT, and AI to build innovative project
 
 ## 📊 GitHub Stats
 
-![Ihssane's GitHub stats](https://github-readme-stats.vercel.app/api?username=elmaataoui-ihssane&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elmaataoui-ihssane&layout=compact&theme=tokyonight&hide_border=true)
+![Ihssane's GitHub stats]()
+
 
 ---
 
 ## 🔗 Socials
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=flat&logo=vercel&logoColor=white)](LIEN_PORTFOLIO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](LIEN_LINKEDIN)
+[![Portfolio](https://github.com/elmaataoui-ihssane/portfolio)
+[![LinkedIn](www.linkedin.com/in/ihssane-el-maataoui-694418363)
