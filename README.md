@@ -52,10 +52,6 @@ I combine my interests in cybersecurity, IoT, and AI to build innovative project
 
 ---
 
-## 📊 GitHub Stats
-
-![Ihssane's GitHub stats](https://github-readme-stats.vercel.app/api?username=elmaataoui-ihssane&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elmaataoui-ihssane&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
